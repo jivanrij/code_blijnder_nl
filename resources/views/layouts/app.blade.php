@@ -20,7 +20,7 @@
         }
     </script>
 
-    <title>Pastebin | Laravel.io</title>
+    <title>Code Showcase | Blijnder</title>
 
     <link href="https://rsms.me/inter/inter.css" rel="stylesheet">
 
